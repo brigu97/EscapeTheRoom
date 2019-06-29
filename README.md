@@ -2,10 +2,10 @@
 
 Concept:
 
-*The core concept is simple:- Escape the building
+*The core concept is simple:- Escape the building.
 *You are stuck in a locked room, unable to escape.
 *Use environment clues such as light and sound to determine what to do next.
-*Trigger pressure plates and solve puzzles to pregress towards the exit
+*Trigger pressure plates and solve puzzles to pregress towards the exit.
 
 Rules:
 
@@ -15,7 +15,7 @@ Rules:
 
 Requirement:
 
-*Unreal Engine 4.19.2
+*Unreal Engine 4.19.2.
 *Unreal's provided starter content pack.
 *C++ code and blueprint to encode behaviour.
-*Microsoft Visual Studio
+*Microsoft Visual Studio.
