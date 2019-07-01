@@ -1,8 +1,10 @@
 My name is Vishwas Basotra, i am a student and i like designing. This is my first game in Unreal Engine.
+
+
 Concept:-
 
 
-The core concept is simple:- Escape the building, you are stuck in a locked room, unable to escape. Use environment clues such as light and sound to determine what to do next.Trigger pressure plates and solve puzzles to pregress towards the exit.
+You are stuck in a locked room, unable to escape. Use environment clues such as light and sound to determine what to do next.Trigger pressure plates and solve puzzles to pregress towards the exit.
 
 
 Rules:-
