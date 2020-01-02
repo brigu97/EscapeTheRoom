@@ -1,4 +1,4 @@
-My name is Vishwas Basotra, i am a student and i like designing. This is my first game in Unreal Engine.
+My name is Vishwas Basotra along with my team(Akash, Chander), i am a student and i like designing. This is our first game in Unreal Engine.
 
 
 Concept:-
