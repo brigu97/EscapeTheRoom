@@ -4,7 +4,7 @@ My name is Vishwas Basotra along with my team(Akash, Chander), i am a student an
 Concept:-
 
 
-You are stuck in a locked room, unable to escape. Use environment clues such as light and sound to determine what to do next.Trigger pressure plates and solve puzzles to pregress towards the exit.
+You are stuck in a locked room, unable to escape. Use environment clues such as light and sound to determine what to do next. Trigger pressure plates and solve puzzles to progress towards the exit.
 
 
 Rules:-
